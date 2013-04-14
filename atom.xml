@@ -4,7 +4,7 @@
   <title><![CDATA[Bleep Boop Zal]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-04-14T14:11:14-05:00</updated>
+  <updated>2013-04-14T15:12:35-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Get back to it]]></title>
+    <link href="http://zalary.github.io/blog/2013/04/14/get-back-to-it/"/>
+    <updated>2013-04-14T15:07:00-05:00</updated>
+    <id>http://zalary.github.io/blog/2013/04/14/get-back-to-it</id>
+    <content type="html"><![CDATA[<p><strong> This is a test </strong></p>
+
+<ul>
+<li>New house</li>
+<li>Standing desk</li>
+<li>Supportive work enviroment</li>
+</ul>
+
+
+<p>That just leaves the following</p>
+
+<ul>
+<li>Code daily</li>
+<li>Blog about it</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>

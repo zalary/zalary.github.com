@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bleep Boop Zal]]></title>
+  <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-04-14T15:36:56-05:00</updated>
+  <updated>2013-04-14T19:33:19-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>

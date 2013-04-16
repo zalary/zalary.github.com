@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-04-14T19:33:19-05:00</updated>
+  <updated>2013-04-15T22:51:57-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[vim goodness]]></title>
+    <link href="http://zalary.github.io/blog/2013/04/15/vim-goodness/"/>
+    <updated>2013-04-15T22:21:00-05:00</updated>
+    <id>http://zalary.github.io/blog/2013/04/15/vim-goodness</id>
+    <content type="html"><![CDATA[<p>While getting back into code, I am also getting into vim. When I used it previously, I pretty much knew &#8216;i&#8217;, which just leads to a lot of frustration.  This time, since I&#8217;m coding mostly via ssh to my ubunu vm, I&#8217;m much more reliant on the terminal for navigating and coding, so I&#8217;m taking the time to learn the myriad of keyboard commands that make vim rock.</p>
+
+<p>And now that I&#8217;ve installed pathogen and figured out where to put/adjust things, I can piddle even more!</p>
+
+<p>I&#8217;m just scratching the surface at this point, but even so, I can see how it&#8217;s a total game-changer.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Get back to it]]></title>

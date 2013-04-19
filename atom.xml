@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-04-18T21:42:13-05:00</updated>
+  <updated>2013-04-19T09:29:51-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -18,11 +18,11 @@
     <link href="http://zalary.github.io/blog/2013/04/18/chapter-4/"/>
     <updated>2013-04-18T21:20:00-05:00</updated>
     <id>http://zalary.github.io/blog/2013/04/18/chapter-4</id>
-    <content type="html"><![CDATA[<p>I made it through <a href="http://ruby.railstutorial.org/chapters/rails-flavored-ruby#top">Chapter4</a> of the Rails Tutorial tonight.  Everything was pretty nice until the last example in the last exercise didn&#8217;t execure the way it should.</p>
+    <content type="html"><![CDATA[<p>I made it through <a href="http://ruby.railstutorial.org/chapters/rails-flavored-ruby#top">Chapter4</a> of the Rails Tutorial tonight.  Everything was pretty nice until the last example in the last exercise didn&#8217;t execute the way it should.</p>
 
 <p>It took a little banging my head into the wall until I remembered something mentioned earlier, and realized I was somehow running 1.8.7 and not 1.9.3 like I thought. So first I went and looked back at how to make the code work in 1.8.7 and &#8216;finished&#8217; the exercise.</p>
 
-<p>Then I decided figure out why rbenv was supposedly installed but  wasn&#8217;t doing what I expected.   There was a little flailing, ut I googled some and poked some and finally got it figured it out.</p>
+<p>Then I decided figure out why rbenv was supposedly installed but wasn&#8217;t doing what I expected.   There was a little flailing, but I googled around and poked some and finally got it figured it out and fixed.</p>
 
 <p>The lessons I learn sometimes are not the ones I expect, but they keep me moving forward.</p>
 ]]></content>

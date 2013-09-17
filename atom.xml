@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-04-19T09:29:51-05:00</updated>
+  <updated>2013-09-17T11:01:39-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Open Letter to the Angular Commnunity]]></title>
+    <link href="http://zalary.github.io/blog/2013/09/17/an-open-letter-to-the-angular-commnunity/"/>
+    <updated>2013-09-17T10:53:00-05:00</updated>
+    <id>http://zalary.github.io/blog/2013/09/17/an-open-letter-to-the-angular-commnunity</id>
+    <content type="html"><![CDATA[<p>So, <a href="http://www.ng-conf.org/" title="ng-conf">ng-conf</a> tickets went on sale, then sold out immediately.  A co-worker forwarded me the email about the next round of tickets, and the email also mentioned the &#8216;girl-ticket&#8217; option.  You can read the email <a href="http://us7.campaign-archive1.com/?u=e45fd510f70a16fd9f7797276&amp;id=2b2ad4dddd&amp;e=8d815c38e3" title="More Tickets &amp; Girl Tickets">here</a>.</p>
+
+<p>And here&#8217;s my response.</p>
+
+<blockquote><p>Hi there,</p>
+
+<p>I&#8217;m a female, and while I would love to come to your conference, the girl-ticket, pink lanyard situation leaves a bad taste in my mouth.</p>
+
+<p>I feel like the underlying intention is right, but the execution just seems misguided.</p>
+
+<p>On one hand, I would love to be able to skip the line and be assured a spot at this conference at a somewhat discounted price.  However, as a <em>woman</em> in tech, I&#8217;ve worked hard to prove myself equal and deserving and I can certainly wait in line with all the &#8216;boys&#8217; and get a ticket in the same way they do.</p>
+
+<p>Further, the pink lanyard seems like a slap in the face, both to anyone wearing one and to anyone else (man, woman, trans-gendered, etc) who wants to get in and either has to pay more, or wait longer or knows someone who wanted to attend but couldn&#8217;t due to ticket shortage (as it seems there is).</p>
+
+<p>I would love to see the angular community reach out to females in other ways.   Maybe through RailsGirls, or Girl Develop It (again, with the girls, but I do respect the mission) or even just reaching out to those of us already in the community.  Let it be known (on your front page, and not buried in an email) that you&#8217;d love to see more diversity (gender, et al) at your conference and that you&#8217;re committed to making it an encouraging and educational experience for everyone.  Then, do commit to it.</p>
+
+<p>I want to acknowledge that I come from a place of privilege.  I work with a great bunch of guys who have never excluded me or downplayed my abilities.  I have a boss who encourages my training and conference attendance.  I haven&#8217;t been harassed or made to feel unwelcome at any conference I&#8217;ve attended - and I&#8217;m grateful for all of that.</p>
+
+<p>My hope is that eventually every woman/girl in tech has that same experience, of being exactly what she is - equal and deserving of her place - even if she has to stand in line to be there.</p>
+
+<p>Crossing my parts for the second round of early-bird tickets,</p>
+
+<p>Zalary Young
+@zalary</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chapter 4]]></title>

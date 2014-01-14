@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2013-09-17T11:19:20-05:00</updated>
+  <updated>2014-01-14T11:23:06-06:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MakerSquare, 2014]]></title>
+    <link href="http://zalary.github.io/blog/2013/12/19/makersquare/"/>
+    <updated>2013-12-19T14:36:00-06:00</updated>
+    <id>http://zalary.github.io/blog/2013/12/19/makersquare</id>
+    <content type="html"><![CDATA[<p>As the title might imply, I&#8217;ve been accepted into the
+<a href="http://themakersquare.com/" title="">MakerSquare</a> Spring Cohort. As the kids
+might say, &#8220;ALL THE FEELS!&#8221;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An Open Letter to the Angular Conference Organizers]]></title>

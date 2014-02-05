@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2014-01-14T11:23:06-06:00</updated>
+  <updated>2014-02-04T20:49:59-06:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MakerSquare Day 1]]></title>
+    <link href="http://zalary.github.io/blog/2014/02/04/makersquare-day-1/"/>
+    <updated>2014-02-04T20:38:00-06:00</updated>
+    <id>http://zalary.github.io/blog/2014/02/04/makersquare-day-1</id>
+    <content type="html"><![CDATA[<p>Day 1 of Makersquare: fun, exciting, challenging, overwhelming!</p>
+
+<p>There was a lot of stuff! Figuring out the vibe, introduction to the
+course - there were past cohort instructors and students to spill all,
+setting up our dev environment and then diving right into code. Lots of
+ruby review which is still my weakest chop.</p>
+
+<p>I have a few exercise to finish tonight, and a few I really want to
+review again, but I&#8217;m feeling confident that even things I suck at seem
+to be gelling a bit more. Bring on day 2!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MakerSquare, 2014]]></title>

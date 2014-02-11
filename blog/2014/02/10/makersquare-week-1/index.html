@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>vim goodness - zalary.github.io</title>
+  <title>Makersquare Week 1, time says 'Woosh' - zalary.github.io</title>
   <meta name="author" content="Zalary Young">
 
   
-  <meta name="description" content="While getting back into code, I am also getting into vim. When I used it previously, I pretty much knew &#8216;i&#8217;, which just leads to a lot of &hellip;">
+  <meta name="description" content="The first week went by so quickly! Somehow we&#8217;re starting - as Harsh called it this morning - &#8216;Season 4, Episode 2&#8217; (Cohort 4, Week &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://zalary.github.io/blog/2013/04/15/vim-goodness">
+  <link rel="canonical" href="http://zalary.github.io/blog/2014/02/10/makersquare-week-1">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="zalary.github.io" type="application/atom+xml">
@@ -69,7 +69,7 @@
   
   <header>
     
-      <h1 class="entry-title">Vim Goodness</h1>
+      <h1 class="entry-title">Makersquare Week 1, Time Says 'Woosh'</h1>
     
     
       <p class="meta">
@@ -85,18 +85,58 @@
   
 
 
-<time datetime="2013-04-15T22:21:00-05:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time>
+<time datetime="2014-02-10T17:29:00-06:00" pubdate data-updated="true">Feb 10<span>th</span>, 2014</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>While getting back into code, I am also getting into vim. When I used it previously, I pretty much knew &#8216;i&#8217;, which just leads to a lot of frustration.  This time, since I&#8217;m coding mostly via ssh to my ubunu vm, I&#8217;m much more reliant on the terminal for navigating and coding, so I&#8217;m taking the time to learn the myriad of keyboard commands that make vim rock.</p>
+<div class="entry-content"><p>The first week went by so quickly!  Somehow we&#8217;re starting - as Harsh called it this morning - &#8216;Season 4, Episode 2&#8217; (Cohort 4, Week 2).</p>
 
-<p>And now that I&#8217;ve installed pathogen and figured out where to put/adjust things, I can piddle even more!</p>
+<p>Truthfully last week I really struggled with the Ruby basics.  I have a general grasp of things I want to do and how I should do them, but my actual implementation needs refinement.  Fortunately I have a great friend who came over and walked through some of the projects with me.  And today, I&#8217;m happy to report, my pair and I were able to get through all the exercises.  I was even able to get through the Extension exercise! :)</p>
 
-<p>I&#8217;m just scratching the surface at this point, but even so, I can see how it&#8217;s a total game-changer.</p>
+<p>So here are my take-aways from the last week:</p>
+
+<ul>
+<li><p>TDD is the best thing ever.  If you use it right, it walks you through how to code the solution!</p></li>
+<li><p>Watch your arrays vs hashes vs objects.</p>
+
+<ul>
+<li>When you don&#8217;t write your own tests for TDD make sure you know what&#8217;s being asked for.  So much frustration came from me returning the right idea but in the wrong way.</li>
+</ul>
+</li>
+<li><p>Frustration is part of the game, but don&#8217;t give up.  Go for a walk or get away from the problem, but keep coming back and trying different stuff.  Even when I can&#8217;t get there without help, I&#8217;ve been so close, or I&#8217;ve tried something so close to the right answer.  It&#8217;s not encouraging in the moment, but it&#8217;s nice when you come to the solution and can look back at your process and see how close you were.  Learn from that.</p></li>
+</ul>
+
+
+<p>With regards to practical newbie tips, here are my favorite 2.</p>
+
+<p>When looping through a hash, you can call the key AND the value, like so</p>
+
+<pre><code>inventory.each do |item|
+    puts "There are #{item[:quantity]} #{item[:name]}(s) and they cost #{item[:price]} each."
+    puts "the total cost of #{item[:name]} is   #{item[:price].to_f * item[:quantity]}"
+   total += item[:price].to_f * item[:quantity]
+   puts total
+end
+</code></pre>
+
+<p>One of those things that seems obvious in retrospect, but gave me so much trouble.</p>
+
+<p>The other neat thing I learned was stubbing time for an rspec test.  For instance, if you want to make sure your script is going to return &#8216;late&#8217; after a given time, you can write your test like</p>
+
+<pre><code> it 'should show late if past 30 min' do
+  thing = Thing.new
+  @time_now = Time.parse("Feb 11 2014")
+  Time.stub(:now).and_return(@time_now)
+  expect(thing.late?).to eq(true)
+end    
+</code></pre>
+
+<p>et voila!</p>
+
+<p>So much magic to learn, so little time.</p>
 </div>
 
 
@@ -119,15 +159,21 @@
   
 
 
-<time datetime="2013-04-15T22:21:00-05:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time>
+<time datetime="2014-02-10T17:29:00-06:00" pubdate data-updated="true">Feb 10<span>th</span>, 2014</time>
       
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/makersquare/'>makersquare</a>
+  
+</span>
 
 
     </p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://zalary.github.io/blog/2013/04/15/vim-goodness/" data-via="zalary" data-counturl="http://zalary.github.io/blog/2013/04/15/vim-goodness/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://zalary.github.io/blog/2014/02/10/makersquare-week-1/" data-via="zalary" data-counturl="http://zalary.github.io/blog/2014/02/10/makersquare-week-1/" >Tweet</a>
   
   
   
@@ -136,10 +182,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/04/14/get-back-to-it/" title="Previous Post: Get back to it">&laquo; Get back to it</a>
+        <a class="basic-alignment left" href="/blog/2014/02/04/makersquare-day-1/" title="Previous Post: MakerSquare Day 1">&laquo; MakerSquare Day 1</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/04/18/chapter-4/" title="Next Post: Chapter 4">Chapter 4 &raquo;</a>
       
     </p>
   </footer>
@@ -223,8 +267,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://zalary.github.io/blog/2013/04/15/vim-goodness/';
-        var disqus_url = 'http://zalary.github.io/blog/2013/04/15/vim-goodness/';
+        var disqus_identifier = 'http://zalary.github.io/blog/2014/02/10/makersquare-week-1/';
+        var disqus_url = 'http://zalary.github.io/blog/2014/02/10/makersquare-week-1/';
         var disqus_script = 'embed.js';
       
     (function () {

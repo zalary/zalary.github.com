@@ -4,11 +4,11 @@
   <title><![CDATA[Category: makersquare | zalary.github.io]]></title>
   <link href="http://zalary.github.io/blog/categories/makersquare/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2014-03-10T13:43:58-05:00</updated>
+  <updated>2014-03-10T14:58:17-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
-    
+    <email><![CDATA[zalary+comments@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
@@ -18,9 +18,9 @@
     <link href="http://zalary.github.io/blog/2014/02/10/makersquare-week-1/"/>
     <updated>2014-02-10T17:29:00-06:00</updated>
     <id>http://zalary.github.io/blog/2014/02/10/makersquare-week-1</id>
-    <content type="html"><![CDATA[<p>The first week went by so quickly!  Somehow we're starting - as Harsh called it this morning - 'Season 4, Episode 2' (Cohort 4, Week 2).</p>
+    <content type="html"><![CDATA[<p>The first week went by so quickly!  Somehow we&rsquo;re starting &ndash; as Harsh called it this morning &ndash; &lsquo;Season 4, Episode 2&rsquo; (Cohort 4, Week 2).</p>
 
-<p>Truthfully last week I really struggled with the Ruby basics.  I have a general grasp of things I want to do and how I should do them, but my actual implementation needs refinement.  Fortunately I have a great friend who came over and walked through some of the projects with me.  And today, I'm happy to report, my pair and I were able to get through all the exercises.  I was even able to get through the Extension exercise! :)</p>
+<p>Truthfully last week I really struggled with the Ruby basics.  I have a general grasp of things I want to do and how I should do them, but my actual implementation needs refinement.  Fortunately I have a great friend who came over and walked through some of the projects with me.  And today, I&rsquo;m happy to report, my pair and I were able to get through all the exercises.  I was even able to get through the Extension exercise! :)</p>
 
 <p>So here are my take-aways from the last week:</p>
 
@@ -29,10 +29,10 @@
 <li><p>Watch your arrays vs hashes vs objects.</p>
 
 <ul>
-<li>When you don't write your own tests for TDD make sure you know what's being asked for.  So much frustration came from me returning the right idea but in the wrong way.</li>
+<li>When you don&rsquo;t write your own tests for TDD make sure you know what&rsquo;s being asked for.  So much frustration came from me returning the right idea but in the wrong way.</li>
 </ul>
 </li>
-<li><p>Frustration is part of the game, but don't give up.  Go for a walk or get away from the problem, but keep coming back and trying different stuff.  Even when I can't get there without help, I've been so close, or I've tried something so close to the right answer.  It's not encouraging in the moment, but it's nice when you come to the solution and can look back at your process and see how close you were.  Learn from that.</p></li>
+<li><p>Frustration is part of the game, but don&rsquo;t give up.  Go for a walk or get away from the problem, but keep coming back and trying different stuff.  Even when I can&rsquo;t get there without help, I&rsquo;ve been so close, or I&rsquo;ve tried something so close to the right answer.  It&rsquo;s not encouraging in the moment, but it&rsquo;s nice when you come to the solution and can look back at your process and see how close you were.  Learn from that.</p></li>
 </ul>
 
 
@@ -50,7 +50,7 @@ end
 
 <p>One of those things that seems obvious in retrospect, but gave me so much trouble.</p>
 
-<p>The other neat thing I learned was stubbing time for an rspec test.  For instance, if you want to make sure your script is going to return 'late' after a given time, you can write your test like</p>
+<p>The other neat thing I learned was stubbing time for an rspec test.  For instance, if you want to make sure your script is going to return &lsquo;late&rsquo; after a given time, you can write your test like</p>
 
 <pre><code> it 'should show late if past 30 min' do
   thing = Thing.new

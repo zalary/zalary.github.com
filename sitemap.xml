@@ -2,52 +2,64 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://zalary.github.io/blog/2013/04/14/get-back-to-it/</loc>
-        <lastmod>2013-04-14T15:36:50-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2013/04/15/vim-goodness/</loc>
-        <lastmod>2013-04-15T22:51:49-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2013/04/18/chapter-4/</loc>
-        <lastmod>2013-04-19T09:29:38-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://zalary.github.io/blog/2013/09/17/an-open-letter-to-the-angular-conference-organizers/
         </loc>
-        <lastmod>2013-09-17T11:18:25-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2013/12/19/makersquare/</loc>
-        <lastmod>2013-12-19T15:21:57-06:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2014/02/04/makersquare-day-1/</loc>
-        <lastmod>2014-02-04T20:47:03-06:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2014/02/10/makersquare-week-1/</loc>
-        <lastmod>2014-02-10T20:14:48-06:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/2014/03/10/colorful-cat/</loc>
-        <lastmod>2014-03-10T13:42:13-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/blog/archives/</loc>
-        <lastmod>2014-03-10T13:42:13-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zalary.github.io/blog/categories/</loc>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/</loc>
-        <lastmod>2014-03-10T13:42:13-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/links.html</loc>
-        <lastmod>2013-04-14T15:35:21-05:00</lastmod>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://zalary.github.io/robots.txt</loc>
-        <lastmod>2013-04-14T15:35:21-05:00</lastmod>
+        <lastmod>2014-03-10T14:28:05-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zalary.github.io/themes/greyshade/source/blog/archives/</loc>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zalary.github.io/themes/greyshade/source/</loc>
+        <lastmod>2014-03-10T14:58:12-05:00</lastmod>
     </url>
 </urlset>

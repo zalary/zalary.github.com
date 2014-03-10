@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2014-03-10T15:06:37-05:00</updated>
+  <updated>2014-03-10T15:25:07-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zalary.github.io/blog/2014/03/10/colorful-cat/"/>
     <updated>2014-03-10T13:31:00-05:00</updated>
     <id>http://zalary.github.io/blog/2014/03/10/colorful-cat</id>
-    <content type="html"><![CDATA[<p>I learned a neat trick about using &lsquo;cat&rsquo; in the terminal to view a file from a <a href="http://themakersquare.com">MakerSquare</a> <a href="http://www.sethszymanski.com/2014/02/11/lolcat.html">classmate</a>, but I wondered, could it be better?</p>
+    <content type="html"><![CDATA[<p>I learned a neat trick about using &lsquo;cat&rsquo; in the terminal to view a file from a <a href="http://themakersquare.com">MakerSquare</a> classmate, <a href="http://www.sethszymanski.com/2014/02/11/lolcat.html">Seth</a>, but I wondered, could it be better?</p>
 
 <p>While not as entertaining as lolcat, I found
 <a href="http://pygments.org/">Pygments</a> which is package for python, but

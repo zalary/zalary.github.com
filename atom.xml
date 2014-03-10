@@ -4,7 +4,7 @@
   <title><![CDATA[zalary.github.io]]></title>
   <link href="http://zalary.github.io/atom.xml" rel="self"/>
   <link href="http://zalary.github.io/"/>
-  <updated>2014-02-10T20:15:31-06:00</updated>
+  <updated>2014-03-10T13:43:58-05:00</updated>
   <id>http://zalary.github.io/</id>
   <author>
     <name><![CDATA[Zalary Young]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Colorful Cat]]></title>
+    <link href="http://zalary.github.io/blog/2014/03/10/colorful-cat/"/>
+    <updated>2014-03-10T13:31:00-05:00</updated>
+    <id>http://zalary.github.io/blog/2014/03/10/colorful-cat</id>
+    <content type="html"><![CDATA[<p>I learned a neat trick about using &#8216;cat&#8217; in the terminal to view a file from a <a href="http://themakersquare.com">MakerSquare</a> <a href="http://www.sethszymanski.com/2014/02/11/lolcat.html">classmate</a>, but I wondered, could it be better?</p>
+
+<p>While not as entertaining as lolcat, I found
+<a href="http://pygments.org/">Pygments</a> which is package for python, but
+totally works in Mac OSX.  You can download and install it manually, or
+use <a href="http://www.pip-installer.org/en/latest/">PIP</a> (which is just a pkg
+manager for python).</p>
+
+<p>Then, alias cat to &#8216;pygmentize -g&#8217; in your bashrc or zshrc file, and
+voila, syntax-higlighted file viewing, direct from your terminal!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Makersquare Week 1, time says 'Woosh']]></title>
